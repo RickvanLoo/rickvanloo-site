@@ -50,3 +50,6 @@ Worked on both the SmartTag 3.0 Neck and their newer [SmartTag Ear](https://neda
 ---------
 * *Asghar, A., Van Loo, R., Kruiper, T., and Ziener, D.* 2019. [Optimizing FPGA-Based Streaming Applications for Throughput Using Pipelining.](https://ieeexplore.ieee.org/abstract/document/8977878) In 2019 International Conference on Field-Programmable Technology (ICFPT) (pp. 351–354).
 
+## Patents
+---------
+* R. van Loo, [A method and apparatus for operating an animal tag](https://worldwide.espacenet.com/patent/search?q=pn%3DNL2037344B1), Dutch Patent NL2037344B1, Oct. 6, 2025.
